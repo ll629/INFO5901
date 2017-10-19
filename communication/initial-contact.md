@@ -15,6 +15,26 @@ A few details about the MPS projects:
 6) While not required, we ask that partners make a visit to Cornell at the end of the semester for final presentations. Alternatively, you may arrange travel to have the students visit your workplace instead.
 7) Partners keep the deliverables and IP. A legal structure for the program is already in place; it allows project sponsors to drive NDAs, data confidentiality etc.
 
+
+
+
+
+
+I think __Company__ would make a great partner for our MPS projects. Our students will get first hand experience with your __blah__
+
+Please let me know if you are interested partnering with us or if you have any questions. Feel free to email or call me at 314-655-8501 for a quick chat. Please note that we have a soft deadline to have the project concept by mid June.
+
+Thanks,
+Kyle Harms
+
+
+For more information about the projects you can also visit, http://infosci.cornell.edu/academics/mps/mps-project .
+Or to view examples of past projects visit, http://infosci.cornell.edu/academics/mps/mps-projects/sample-mps-projects .
+
+
+
+
+
 For more information about the projects you can also visit, http://infosci.cornell.edu/academics/mps/mps-project .
 Or to view examples of past projects visit, http://infosci.cornell.edu/academics/mps/mps-projects/sample-mps-projects .
 
