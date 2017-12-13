@@ -1,19 +1,20 @@
 # INFO 5901 Open TA Positions
 
 
-I am looking for two TAs for the MPS Project Practicum (INFO 5901) for the upcoming Spring semester.
+I am looking for two TAs for the MPS Project Practicum (INFO 5901) for the upcoming Spring semester (2018).
 
-
-To be eligible
+Eligibility:
 * You must have already completed an MPS Project (INFO 5901).
 * You may not take INFO 5901 and be a TA at the same time.
 
 Responsibilities:
-* You will need to work 10 hours per week.
-* You will need to attend most lectures (Mondays at 4:
+* Work at least 10 hours per week.
+* Attend most lectures (Mondays at 4:40-5:40pm).
+* Promptly grade assignments.
+* Communicate with the students and answer questions.
+* Help resolve issues with the projects.
 
-
-If you are interested. Please send me an email (kyle.harms@cornell.edu)
+If you are interested. Please send me an email (kyle.harms@cornell.edu) by Thursday (12/14) at 12 noon.
 
 Thanks,
-Kyle
+Kyle Harms
