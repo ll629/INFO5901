@@ -11,8 +11,8 @@ Responsibilities:
 * Work at least 10 hours per week.
 * Attend most lectures (Mondays at 4:40-5:40pm).
 * Promptly grade assignments.
-* Communicate with the students and answer questions.
-* Help resolve issues with the projects.
+* Regularly interact with students and answer questions.
+* Help resolve issues with the projects or teams.
 
 If you are interested. Please send me an email (kyle.harms@cornell.edu) by Thursday (12/14) at 12 noon.
 
