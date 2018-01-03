@@ -1,4 +1,5 @@
-# Cornell Project Partnership - Spring 2018
+# Subject: Cornell Project Partnership - Spring 2018
+
 
 __Name__,
 
@@ -21,13 +22,13 @@ A few details about the MPS projects:
 
 6) Projects are completed by students on the Cornell campus. Students are expected to interact with remote client representatives via email, phone, and videoconferencing throughout the duration of the project. If travel is required for the project (either by the client or by the students), the partner is responsible for the cost.
 
-7) The project scope is around 400-500 person-hours of work (3-4 students × 9 hr/week x 14 weeks).
+7) The project scope is around 400-500 person-hours of work (3-4 students × 9 hr/week × 14 weeks).
 
 8) We ask that our partners spend roughly 30 minutes a week communicating with the students to make sure the project is progressing appropriately.
 
 9) Partners keep the deliverables and IP. A legal structure for the program is already in place; it allows project sponsors to drive data confidentiality, etc.
 
-10) We can provide additional security measures to safe-guard your IP/data. This includes setting up a private network or virtual machines, etc.
+10) We can provide additional security measures to safe-guard your IP/data. This includes setting up a private network, virtual machines, or private git repositories, etc.
 
 11) Remote projects are welcome. In fact, most of our current partners work with our student teams via phone, email, and video conferencing.
 
