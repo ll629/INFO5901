@@ -3,10 +3,10 @@
 **Credits:** INFO 5901 – 2; INFO 5900 – 1\
 **Lectures:** Mondays 4:40pm-5:40pm, Upson Hall 142\
 **Instructor:** Kyle Harms\
-**Teaching Assistants:** Lola Legrand, Philina Chen\
-**Contact:** course related: <info5901-prof@cornell.edu>; non-course related: <kyle.harms@cornell.edu>\
-**Course web site:** [https://cmsx.cs.cornell.edu](https://cmsx.cs.cornell.edu)\
+**Teaching Assistants:** Lola Legrand, Philina Chen
 
+**Course web site:** [https://cmsx.cs.cornell.edu](https://cmsx.cs.cornell.edu)\
+**Contact:** <info5901-prof@cornell.edu>\
 **Office Hours:**\
 Instructor: Gates 224, Mondays 10:00-11:30, Tuesdays 10:30-12:00\
 TAs: Gates G19, Thursdays 15:00-16:00
@@ -38,7 +38,7 @@ This course is based on material by Gilly Leshed and Jon Saxe.
 
 ### Communication
 
-**For all course related communication please email [info2300-prof@cornell.edu](mailto:info2300-prof@cornell.edu).**
+**For all course related communication please email <info2300-prof@cornell.edu>.**
 
 ### Attendance
 
