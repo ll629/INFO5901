@@ -40,6 +40,8 @@ This course is based on material by Gilly Leshed and Jon Saxe.
 
 **For all course related communication please email <info2300-prof@cornell.edu>.**
 
+Please do not email the course staff (instructor and TAs) directly using their personal emails.
+
 ### Attendance
 
 On-time class attendance is required. Attendance will be taken at the
