@@ -38,7 +38,7 @@ This course is based on material by Gilly Leshed and Jon Saxe.
 
 ### Communication
 
-**For all course related communication please email [mailto:info2300-prof@cornell.edu](info2300-prof@cornell.edu).**
+**For all course related communication please email [info2300-prof@cornell.edu](mailto:info2300-prof@cornell.edu).**
 
 ### Attendance
 
