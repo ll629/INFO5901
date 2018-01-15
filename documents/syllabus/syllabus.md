@@ -284,8 +284,7 @@ Your grade is computed as the following weighted average:
 
 100% of your grade is given by your client.
 
-Schedule
---------
+## Schedule
 
 This class schedule is tentative and is subject to change as the
 semester proceeds.
