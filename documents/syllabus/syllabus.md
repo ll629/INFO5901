@@ -1,13 +1,13 @@
 # INFO 5901: MPS Project Practicum (Spring 2018)
 
 **Credits:** INFO 5901 – 2; INFO 5900 – 1\
-**Lectures:** Mondays 4:40pm-5:40pm, Upson Hall 142
-**Instructor:** Kyle Harms
-**Teaching Assistants:** Lola Legrand, Philina Chen
-**Contact:** course related: <info5901-prof@cornell.edu>; non-course related: <kyle.harms@cornell.edu>
-**Course web site:** [https://cmsx.cs.cornell.edu](https://cmsx.cs.cornell.edu)
-**Office Hours:**
-Instructor: Gates 224, Mondays 10:00-11:30, Tuesdays 10:30-12:00
+**Lectures:** Mondays 4:40pm-5:40pm, Upson Hall 142\
+**Instructor:** Kyle Harms\
+**Teaching Assistants:** Lola Legrand, Philina Chen\
+**Contact:** course related: <info5901-prof@cornell.edu>; non-course related: <kyle.harms@cornell.edu>\
+**Course web site:** [https://cmsx.cs.cornell.edu](https://cmsx.cs.cornell.edu)\
+**Office Hours:**\
+Instructor: Gates 224, Mondays 10:00-11:30, Tuesdays 10:30-12:00\
 TAs: Gates G19, Thursdays 15:00-16:00
 
 ## Overview
