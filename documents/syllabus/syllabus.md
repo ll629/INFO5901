@@ -38,35 +38,27 @@ This course is based on material by Gilly Leshed and Jon Saxe.
 
 ### Communication
 
-**For all course related communication please email <info2300-prof@cornell.edu>.**
+**For all course related communication please email <info5901-prof@cornell.edu>.** Please do not email the course staff (instructor and TAs) directly using their personal emails. You always use the course email for communication with the teaching staff.
 
-Please do not email the course staff (instructor and TAs) directly using their personal emails.
+As a general rule of thumb, please communicate any issues with the instructor in advance. I'm happy to help in any way that I can or make considerations so long as you communicate in advance. Asking for a consideration after the fact, will likely result in your consideration request being denied.
 
 ### Attendance
 
-On-time class attendance is required. Attendance will be taken at the
-beginning of each class. You are allowed for up to **two absences**.
-This should give you enough flexibility to plan for interviews,
-religious holidays, unexpected sickness, family emergencies, etc. You
-must notify the course staff via <info5901-prof@cornell.edu> in advance
-if you will be absent. Any absence beyond two, regardless of the reason,
-will result in reduction of your grade.
+On-time class attendance is required. Attendance will be taken at the beginning of each class. You are allowed up to **two excused absences**. To use these excused absences, just use them. There is no need to email me or notify the course staff.
+This should give you enough flexibility to plan for interviews, religious holidays, unexpected sickness, family emergencies, etc. Any absence beyond two, regardless of the reason, will result in reduction of your grade.
 
 ### Laptops and Cell Phones
 
-Please no laptop or cell phone usage during lectures. Especially during
-guest lectures.
+Please no laptop or cell phone usage during lectures. Especially during guest lectures.
 
 ### Late Submission
 
 Unless otherwise announced, all project deliverables are due at the
-beginning of the class on the day that they are due. The paper part (if
-any) must be handed in class, and the electronic part (if any) must be
-submitted by the time of the beginning of class. Late assignments will
+beginning of the class on the day that they are due. Late assignments will
 receive a 0. Under exceptional circumstances points will be deducted at
 the discretion of the instructors for late assignments. Exceptional
 circumstances will be considered only if discussed with the teaching
-staff in advance.
+staff **in advance**.
 
 ### Academic Integrity
 
@@ -76,8 +68,8 @@ University Code of Academic Integrity
 <http://cuinfo.cornell.edu/aic.cfm>. Violations of the code of conduct
 include but are not limited to:
 
--   Implying your project is further along than it actually is in a
-    project status report.
+-   **Implying your project is further along than it actually is in a
+    project status report.**
 -   Submitting work in this class that has also been submitted for a
     grade in another course without prior permission of both
     instructors.
@@ -104,7 +96,7 @@ matter and will be treated as such.
 
 ### Accommodations for Students with Disabilities
 
-If you think you need an accommodation for a disability, please provide
+If you need an accommodation for a disability, please provide
 your accommodation letter from Student Disability Services. Some aspects
 of this course such as guest lectures and project activities and
 assignments may be modified to facilitate your participation and
@@ -118,15 +110,15 @@ Services and the teaching staff for a confidential discussion of their
 individual need for academic accommodations. More information about
 Student Disability Services can be found at <http://sds.cornell.edu/>.
 
-Guest Lectures
---------------
+## Guest Lectures
 
 Frequently throughout the semester, we will invite a professional to
 guest lecture about topics related to project management and
 professionalism in information science.
 
-Project Milestones and Deliverables
------------------------------------
+Laptop and cell phone usage is prohibited during all guest lectures.
+
+## Project Milestones and Deliverables
 
 In your semester-long project, you will be working in a team for an
 industry/academic client, to define the problem, come up with a project
@@ -162,7 +154,7 @@ should ensure that there is only one person who is in charge at any time
 to keep in touch with the client.
 
 You should schedule to meet with the client (in person if local or via
-phone or Skype if remote) every other week, for about 30 minutes. It
+phone or Skype if remote) every week, for about 30 minutes. It
 would be useful to schedule all the meetings at the outset of the
 semester. Having an agenda of what you will present and discuss at the
 meeting will help you organize and prepare for the meeting. In addition,
@@ -172,9 +164,9 @@ consistent progress on the project.
 ### Conflict
 
 Conflict is a normal part of any team project. If you have a conflict
-within your group that you cannot resolve internally, you are required
+within your group that you cannot resolve internally, **you are required
 to bring the conflict to the attention of the teaching staff
-immediately. Prolonged team conflict will result in a grade reduction.
+immediately**. Prolonged team conflict will result in a grade reduction.
 
 ### Weekly Logs
 
@@ -184,31 +176,37 @@ the end of each week, each student will submit a short summary of this
 log. The purpose of these weekly logs is to ensure steady progress and
 accountability of each student and the team as a whole.
 
+Your weekly log is what you personally worked on for the week. You should not include what your team worked on. Each weekly log should be no more than a page. You do not need to write blocks of text. Bullets points are 100% acceptable and encouraged.
+
 ### Milestones and Deliverables
 
 The details below outline project deliverables. Additional details about
 the requirements of each assignment will be provided in class and
 through Blackboard.
 
--   **Project Plan: **The first deliverable will consist of a document
+-   **Team Contract:** Before you begin working on your project you will author a team contract. The team contract will set the rules and expectations that you and your team members will follow while working on your project.
+
+-   **Project Plan:** The first deliverable will consist of a document
     in which the team will identify and justify the primary ideas of
     your project, describe the problem you plan to address and the
     methodologies you intend to use, outline the sources, tools, and
     techniques you will use to address the problem, and provide a
     detailed time-line with your activities, work distribution and
-    project plan for achieving the project goals.\
--   **Progress Report I: **The purpose of this mid-way report is to
+    project plan for achieving the project goals.
+
+-   **Progress Report I:** The purpose of this mid-way report is to
     ensure that you are making systematic progress toward completing the
     project successfully. In this report, you will describe what you
     have achieved so far and outline any changes to the project plan
-    since you presented the initial plan.\
--   **Progress Report II: **In this report you will demonstrate that you
+    since you presented the initial plan.
+
+-   **Progress Report II:** In this report you will demonstrate that you
     have achieved considerable progress in the project. As in Progress
     Report I, you will describe any changes to the project plan since
     the last report. Here you will also provide a detailed plan toward
     successful completion.
 
--   **Final Report: **This document will summarize your team efforts
+-   **Final Report:** This document will summarize your team efforts
     over the semester and will serve as an executive summary that you
     hand over to the client. In this document, you will describe the
     problem you worked on, the methods and tools you used, the
@@ -217,22 +215,22 @@ through Blackboard.
     you should append to your report a handover package with the
     product.
 
--   **Final Presentation: **You will prepare and present the results of
+-   **Final Presentation:** You will prepare and present the results of
     your project to the client. Your presentation should be polished and
     professional. It should also accurately describe the final outcome
-    of your project.\
--   **Project Showcase: **At the end of the semester, you will present
+    of your project.
+
+-   **Project Showcase:** At the end of the semester, you will present
     with your team what you have worked on during the semester. All
     clients, as well as the information science community: students,
     researchers, and faculty, will be invited to the session. Your
     presentation will be in the form of a poster, around which
-    discussions will be held. The showcase will be held Monday, December
-    4, 2017.
+    discussions will be held.
 
 ### Project Guidance
 
-The TA will check-in with each team every other week and provide the
-team with ongoing guidance and feedback.
+A member of the teaching staff will check-in with each team frequently and provide the
+team with ongoing guidance and feedback. If you need any guidance on your project, please reach out to the teaching staff. We are more than happy to help.
 
 Please note that because the MPS projects cover a wide range of topics,
 the teaching staff do not necessary have the specific knowledge required
@@ -243,22 +241,10 @@ will do their best to help you identify these sources.
 
 ### Peer Evaluations
 
-At few points during the semester, students will complete self and peer
-evaluation surveys. We will use these evaluations for two primary
-purposes:
+At end the end of the semester, students will complete self and peer
+evaluation surveys. At the instructor’s discretion, individual grades for the team project may be adjusted based on group members’ evaluation of each other’s quantity and quality of contribution to the group effort. This is in the interest of fairness.
 
--   In case of team conflicts or difficulties, we will identify teams
-    that need intervention from the teaching staff. We will do our best
-    to help teams resolve conflicts toward successful completion of the
-    project.
-
--   At the instructor’s discretion, individual grades for the team
-    project might be adjusted based on group members’ evaluation of each
-    other’s quantity and quality of contribution to the group effort.
-    This is in the interest of fairness.
-
-Grading
--------
+## Grading
 
 I grade to a scale, not to a curve. Letter grades are assigned by the
 *integer-part* of your percentage; the *decimal-part* is not a factor.
