@@ -1,26 +1,19 @@
-INFO 5901: MPS Project Practicum
-================================
+# INFO 5901: MPS Project Practicum (Spring 2018)
 
-**Fall 2017**
-
-**Credits:** INFO 5901 – 1; INFO 5900 – 2\
-**Lectures:** Mondays 16:30-17:30, Upson Hall 142\
-**Instructor:** Kyle Harms\
-**Teaching Assistants: **Maurice Jakesch, Ming Yang\
-**Contact:**\
-course related: <info5901-prof@cornell.edu>\
-non-course related: <kyle.harms@cornell.edu>\
-**Course web site:**
-[https://cmsx.cs.cornell.edu](https://cmsx.cs.cornell.edu/)\
-**Office Hours:**\
-Instructor: Gates 224, Mondays 10:00-11:30, Tuesdays 10:30-12:00\
+**Credits:** INFO 5901 – 2; INFO 5900 – 1
+**Lectures:** Mondays 4:40pm-5:40pm, Upson Hall 142
+**Instructor:** Kyle Harms
+**Teaching Assistants:** Lola Legrand, Philina Chen
+**Contact:** course related: <info5901-prof@cornell.edu>; non-course related: <kyle.harms@cornell.edu>
+**Course web site:** [https://cmsx.cs.cornell.edu]
+**Office Hours:**
+Instructor: Gates 224, Mondays 10:00-11:30, Tuesdays 10:30-12:00
 TAs: Gates G19, Thursdays 15:00-16:00
 
-Overview
---------
+## Overview
 
-In this course students will receive guidance toward working on their
-MPS project in INFO 5900.
+In this course (INFO 5901) students will receive guidance toward working on their
+MPS project (INFO 5900).
 
 Class will consist of two primary activities:
 
@@ -38,12 +31,11 @@ Class will consist of two primary activities:
     students develop project skills during the semester that will
     benefit them in their future employment.
 
-    This course is based on material by Gilly Leshed and Jon Saxe.
+This course is based on material by Gilly Leshed and Jon Saxe.
 
-Policies
---------
+## Policies
 
-### Attendance 
+### Attendance
 
 On-time class attendance is required. Attendance will be taken at the
 beginning of each class. You are allowed for up to **two absences**.
@@ -360,5 +352,3 @@ semester proceeds.
 |                       |                       | Project Deliverables  |
 |                       |                       | (10%)                 |
 +-----------------------+-----------------------+-----------------------+
-
-
