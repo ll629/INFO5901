@@ -250,21 +250,20 @@ I grade to a scale, not to a curve. Letter grades are assigned by the
 *integer-part* of your percentage; the *decimal-part* is not a factor.
 For example: 96.01, 96.5, and 96.99 are all A’s. 97.0 is an A+.
 
-  ---- ---------
-  A+   97-100%
-  A    93-96%
-  A-   90-92%
-  B+   87-89%
-  B    83-86%
-  B-   80-82%
-  C+   77-79%
-  C    73-76%
-  C-   70-72%
-  D+   67-69%
-  D    63-66%
-  D-   60-62%
-  F    0-59%
-  ---- ---------
+|----|---------|
+| A+ | 97-100% |
+| A  | 93-96%  |
+| A- | 90-92%  |
+| B+ | 87-89%  |
+| B  | 83-86%  |
+| B- | 80-82%  |
+| C+ | 77-79%  |
+| C  | 73-76%  |
+| C- | 70-72%  |
+| D+ | 67-69%  |
+| D  | 63-66%  |
+| D- | 60-62%  |
+| F  | 0-59%   |
 
 When reporting the progress of your project to the teaching staff, if
 you are in anyway deceptive about the status of your project, I reserve
