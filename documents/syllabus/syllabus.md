@@ -276,11 +276,9 @@ the right to lower your grade. This includes lowering your final grade.
 
 Your grade is computed as the following weighted average:
 
-  ---------------------------------------------------------------------------------------------------------------------------------------- -----
-  Attendance and Participation: guest lectures, work sessions, weekly logs, peer evaluations, team contract, practice presentation, etc.   20%
-  Project Assignments: project plan, progress report I & II, final report, presentation, poster, project deliverables, etc.                70%
-  Final Client Evaluation                                                                                                                  10%
-  ---------------------------------------------------------------------------------------------------------------------------------------- -----
+Attendance and Participation: guest lectures, work sessions, weekly logs, peer evaluations, team contract, practice presentation, etc.   20%
+Project Assignments: project plan, progress report I & II, final report, presentation, poster, project deliverables, etc.                70%
+Final Client Evaluation                                                                                                                  10%
 
 ### INFO 5900
 
