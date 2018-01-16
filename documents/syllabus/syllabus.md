@@ -291,58 +291,57 @@ Your grade is computed as the following weighted average:
 This class schedule is tentative and is subject to change as the
 semester proceeds.
 
-+-----------------------+-----------------------+-----------------------+
-| Date                  | Agenda                | Assignments Due       |
-+-----------------------+-----------------------+-----------------------+
-| Mon 8/28              | Projects Assigned     |                       |
-+-----------------------+-----------------------+-----------------------+
-| Mon 9/4               | No Class              | Reading on Teamwork   |
-+-----------------------+-----------------------+-----------------------+
-| Mon 9/11              | Guest Lecture:        | Log, Team Contract    |
-|                       | Project & Risk        |                       |
-|                       | Management            |                       |
-+-----------------------+-----------------------+-----------------------+
-| Mon 9/18              | Guest Lecture:        | Log, Project Plan     |
-|                       | Teamwork              | (10%)                 |
-+-----------------------+-----------------------+-----------------------+
-| Mon 9/25              | Team Check-in &       | Log                   |
-|                       | Meeting               |                       |
-+-----------------------+-----------------------+-----------------------+
-| Mon 10/2              | Team Check-in &       | Log, Progress Report  |
-|                       | Meeting               | I (10%)               |
-+-----------------------+-----------------------+-----------------------+
-| Mon 10/9              | No Class              | Log                   |
-+-----------------------+-----------------------+-----------------------+
-| Mon 10/16             | Guest Lecture: Agile  | Log                   |
-|                       | Development           |                       |
-+-----------------------+-----------------------+-----------------------+
-| Mon 10/23             | Guest Lecture: Client | Log                   |
-|                       | Communication         |                       |
-+-----------------------+-----------------------+-----------------------+
-| Mar 10/30             | Team Check-in &       | Log, Progress Report  |
-|                       | Meeting               | II (10%)              |
-+-----------------------+-----------------------+-----------------------+
-| Mon 11/6              | Effective             | Log,                  |
-|                       | Presentations         |                       |
-+-----------------------+-----------------------+-----------------------+
-| Mon 11/13             | Team Check-in &       | []{#anchor}Log        |
-|                       | Meeting               |                       |
-+-----------------------+-----------------------+-----------------------+
-| Mon 11/20             | Team Check-in &       | Log                   |
-|                       | Meeting               |                       |
-+-----------------------+-----------------------+-----------------------+
-| Mon 11/27             | Practice Presentation | Log, Practice         |
-|                       |                       | Presentation          |
-+-----------------------+-----------------------+-----------------------+
-| Mon 12/4              | Presentations with    | Final Presentation    |
-|                       | Clients               | (10%) &\              |
-|                       |                       | Poster (10%)          |
-|                       | Showcase with Posters |                       |
-|                       | (Client, Faculty and  |                       |
-|                       | IS invited)           |                       |
-+-----------------------+-----------------------+-----------------------+
-| Mon 12/11             |                       | 11:30 AM: Final       |
-|                       |                       | Report (10%) &        |
-|                       |                       | Project Deliverables  |
-|                       |                       | (10%)                 |
-+-----------------------+-----------------------+-----------------------+
+| Date | Agenda | Assignments Due |
+| ---- | ------ | --------------- |
+| Mon 8/28 | Projects Assigned |     |
+| -------- | ----------------- | --- |
+| Mon 9/4 | No Class | Reading on Teamwork |
+| ------- | -------- | ------------------- |
+| Mon 9/11 | Guest Lecture: | Log, Team Contract |
+| -------- | -------------- | ------------------ |
+|          | Project & Risk |                    |
+|          | Management     |                    |
+| Mon 9/18 | Guest Lecture: | Log, Project Plan |
+| -------- | -------------- | ----------------- |
+|          | Teamwork       | (10%)             |
+| Mon 9/25 | Team Check-in & | Log |
+| -------- | --------------- | --- |
+|          | Meeting         |     |
+| Mon 10/2 | Team Check-in & | Log, Progress Report |
+| -------- | --------------- | -------------------- |
+|          | Meeting         | I (10%)              |
+| Mon 10/9 | No Class | Log |
+| -------- | -------- | --- |
+| Mon 10/16 | Guest Lecture: Agile | Log |
+| --------- | -------------------- | --- |
+|           | Development          |     |
+| Mon 10/23 | Guest Lecture: Client | Log |
+| --------- | --------------------- | --- |
+|           | Communication         |     |
+| Mar 10/30 | Team Check-in & | Log, Progress Report |
+| --------- | --------------- | -------------------- |
+|           | Meeting         | II (10%)             |
+| Mon 11/6 | Effective     | Log, |
+| -------- | ------------- | ---- |
+|          | Presentations |      |
+| Mon 11/13 | Team Check-in & | []{#anchor}Log |
+| --------- | --------------- | -------------- |
+|           | Meeting         |                |
+| Mon 11/20 | Team Check-in & | Log |
+| --------- | --------------- | --- |
+|           | Meeting         |     |
+| Mon 11/27 | Practice Presentation | Log, Practice |
+| --------- | --------------------- | ------------- |
+|           |                       | Presentation  |
+| Mon 12/4 | Presentations with    | Final Presentation |
+| -------- | --------------------- | ------------------ |
+|          | Clients               | (10%) &\           |
+|          |                       | Poster (10%)       |
+|          | Showcase with Posters |                    |
+|          | (Client, Faculty and  |                    |
+|          | IS invited)           |                    |
+| Mon 12/11 |     | 11:30 AM: Final      |
+| --------- | --- | -------------------- |
+|           |     | Report (10%) &       |
+|           |     | Project Deliverables |
+|           |     | (10%)                |
