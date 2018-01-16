@@ -1,4 +1,6 @@
-# INFO 5901: MPS Project Practicum (Spring 2018)
+# INFO 5901: MPS Project Practicum
+
+## Spring 2018
 
 **Credits:** INFO 5901 – 2; INFO 5900 – 1\
 **Lectures:** Mondays 4:40pm-5:40pm, Upson Hall 142\
