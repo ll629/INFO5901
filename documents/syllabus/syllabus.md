@@ -247,13 +247,15 @@ will do their best to help you identify these sources.
 
 
 
+## Grades
+
+Your grade for INFO 5900 is assigned by your project's client (1 credit). Your grade for INFO 5901 is assigned by the instructor (2 credits).
+
 ## Grading
 
-I grade to a scale, not to a curve. Letter grades are assigned by the
+I grade to a scale, not to a curve. Like your GPA, letter grades are assigned by the
 *integer-part* of your percentage; the *decimal-part* is not a factor.
 For example: 96.01, 96.5, and 96.99 are all A’s. 97.0 is an A+.
-
-<!-- <div class="page-break"></div> -->
 
 | Letter | Percent | Letter | Percent | Letter | Percent | Letter | Percent |
 |:------:| -------:|:------:| -------:|:------:| -------:|:------:| -------:|
@@ -262,9 +264,9 @@ For example: 96.01, 96.5, and 96.99 are all A’s. 97.0 is an A+.
 |   A-   |  90-92% |   B-   |  80-82% |   C-   |  70-72% |   D-   |  60-62% |
 |        |         |        |         |        |         |   F    |   0-59% |
 
-When reporting the progress of your project to the teaching staff, if
-you are in anyway deceptive about the status of your project, I reserve
-the right to lower your grade. This includes lowering your final grade.
+<!-- <div class="page-break"></div> -->
+
+
 
 ### INFO 5901
 
@@ -284,6 +286,18 @@ Final Client Evaluation                                                         
 
 100% of your grade is given by your client.
 
+
+
+### Grade Adjustments
+
+Your grade may be adjusted at the instructor's discretion.
+
+#### Project Progress
+
+When reporting the progress of your project to the teaching staff, if
+you are in anyway deceptive about the status of your project, I reserve
+the right to lower your grade. This includes lowering your final grade.
+
 ### Peer Evaluations
 
 At end the end of the semester, students will complete self and peer
@@ -291,8 +305,7 @@ evaluation surveys. At the instructor’s discretion, individual grades for the 
 
 ## Schedule
 
-This class schedule is tentative and is subject to change as the
-semester proceeds.
+This class schedule is tentative and is subject to change as the semester proceeds.
 
 | Date      | Agenda                | Assignments Due      |
 | --------- | --------------------- | -------------------- |
