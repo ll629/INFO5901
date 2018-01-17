@@ -255,12 +255,12 @@ For example: 96.01, 96.5, and 96.99 are all A’s. 97.0 is an A+.
 
 <!-- <div class="page-break"></div> -->
 
-| Letter | Percent | Letter | Percent | Letter | Percent |     |        |
-|:------:| -------:|:------:| -------:|:------:| -------:|:---:| ------:|
-|   A+   | 97-100% |   B+   |  87-89% |   C+   |  77-79% | D+  | 67-69% |
-|   A    |  93-96% |   B    |  83-86% |   C    |  73-76% |  D  | 63-66% |
-|   A-   |  90-92% |   B-   |  80-82% |   C-   |  70-72% | D-  | 60-62% |
-|        |         |        |         |        |         |  F  |  0-59% |
+| Letter | Percent |     |        |     |        |     |        |
+|:------:| -------:|:---:| ------:|:---:| ------:|:---:| ------:|
+|   A+   | 97-100% | B+  | 87-89% | C+  | 77-79% | D+  | 67-69% |
+|   A    |  93-96% |  B  | 83-86% |  C  | 73-76% |  D  | 63-66% |
+|   A-   |  90-92% | B-  | 80-82% | C-  | 70-72% | D-  | 60-62% |
+|        |         |     |        |     |        |  F  |  0-59% |
 
 When reporting the progress of your project to the teaching staff, if
 you are in anyway deceptive about the status of your project, I reserve
