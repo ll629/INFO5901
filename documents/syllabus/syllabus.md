@@ -266,6 +266,13 @@ For example: 96.01, 96.5, and 96.99 are all A’s. 97.0 is an A+.
 
 <!-- <div class="page-break"></div> -->
 
+|                        | INFO 5900 | INFO 5901 |         Total |
+|:---------------------- | ---------:| ---------:| -------------:|
+| Credits                |  1 credit | 2 credits | **3 credits** |
+| In-Class Participation |        0% |        8% |        **5%** |
+| Assignments            |        0% |       37% |       **25%** |
+| Project                |      100% |       55% |       **70%** |
+| **Total**              |  **100%** |  **100%** |      **100%** |
 
 
 ### INFO 5901
