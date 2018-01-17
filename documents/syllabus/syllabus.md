@@ -288,7 +288,7 @@ When reporting the progress of your project to the teaching staff, if
 you are in anyway deceptive about the status of your project, I reserve
 the right to lower your grade. This includes lowering your final grade.
 
-### Peer Evaluations
+#### Peer Evaluations
 
 At end the end of the semester, students will complete self and peer
 evaluation surveys. At the instructor’s discretion, individual grades for the team project may be adjusted based on group members’ evaluation of each other’s quantity and quality of contribution to the group effort. This is in the interest of fairness.
