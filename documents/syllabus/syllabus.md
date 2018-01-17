@@ -321,7 +321,7 @@ This class schedule is tentative and is subject to change as the semester procee
 | Fri 5/11 | Final Presentation & Poster Showcase | Final Presentation & Poster Presentation |
 | Thu 5/17 |                                      | (11:30am) Final Report & Deliverables    |
 
-| ---       | --                    | --                   |
+|           |                       |                      |
 | --------- | --------------------- | -------------------- |
 | Mon 9/4   | No Class              | Reading on Teamwork  |
 | Mon 9/11  | Guest Lecture:        | Log, Team Contract   |
