@@ -14,7 +14,7 @@
 | Staff        | Location       | Hours                                     |
 | ------------ | -------------- | ----------------------------------------- |
 | Kyle Harms   | 224 Gates Hall | Mondays 10:00-11:30, Tuesdays 10:30-12:00 |
-| Philina Chen | G19 Gates Hall | Thursdays 15:00-16:00                     |
+| Philina Chen | G19 Gates Hall | Tues 1:30pm-2:30pm, Thurs 1:30pm-2:30pm   |
 | Lola Legrand | G19 Gates Hall |                                           |
 
 ## Overview
