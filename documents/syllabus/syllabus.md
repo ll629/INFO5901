@@ -304,20 +304,20 @@ This class schedule is tentative and is subject to change as the semester procee
 | Date     | Agenda                                   | Assignments Due                               |
 | -------- | ---------------------------------------- | --------------------------------------------- |
 | Mon 1/29 | Projects Assigned                        |                                               |
-| Mon 2/5  | Guest Lecture: Teamwork                  | Teamwork Reading                              |
-| Mon 2/12 | Guest Lecture: Project & Risk Management |                                               |
-| Mon 2/19 | *No Class*                               |                                               |
-| Mon 2/26 |                                          |                                               |
-| Mon 3/5  |                                          |                                               |
-| Mon 3/12 |                                          |                                               |
-| Mon 3/19 |                                          |                                               |
-| Mon 3/26 |                                          |                                               |
-| Mon 4/2  | *No Class*                               |                                               |
-| Mon 4/9  |                                          |                                               |
-| Mon 4/16 |                                          |                                               |
-| Mon 4/23 |                                          |                                               |
-| Mon 4/30 |                                          |                                               |
-| Mon 5/7  |                                          |                                               |
+| Mon 2/5  | Guest Lecture: Teamwork                  | Log, Teamwork Reading                         |
+| Mon 2/12 | Guest Lecture: Project & Risk Management | Log, Team Contract                            |
+| Mon 2/19 | *No Class*                               | Log                                           |
+| Mon 2/26 | Project Check-in                         | Log, Project Plan                             |
+| Mon 3/5  |                                          | Log                                           |
+| Mon 3/12 |                                          | Log                                           |
+| Mon 3/19 |                                          | Log, Progress Report I                        |
+| Mon 3/26 |                                          | Log                                           |
+| Mon 4/2  | *No Class*                               | Log                                           |
+| Mon 4/9  |                                          | Log                                           |
+| Mon 4/16 |                                          | Log, Progress Reprot II                       |
+| Mon 4/23 |                                          | Log                                           |
+| Mon 4/30 | Effective Presentations                  | Log                                           |
+| Mon 5/7  | Practice Presentations                   | Log, Practice Presentation                    |
 | Fri 5/11 | Final Presentation & Poster Showcase     | Final Presentation &<br/> Poster Presentation |
 | Thu 5/17 |                                          | (11:30am) Final Report &<br/> Deliverables    |
 
