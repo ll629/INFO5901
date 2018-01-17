@@ -251,7 +251,7 @@ will do their best to help you identify these sources.
 
 Your grade for INFO 5900 is assigned by your project's client (1 credit). Your grade for INFO 5901 is assigned by the instructor (2 credits).
 
-## Grading
+## Scale
 
 I grade to a scale, not to a curve. Like your GPA, letter grades are assigned by the
 *integer-part* of your percentage; the *decimal-part* is not a factor.
@@ -264,36 +264,19 @@ For example: 96.01, 96.5, and 96.99 are all A’s. 97.0 is an A+.
 |   A-   |  90-92% |   B-   |  80-82% |   C-   |  70-72% |   D-   |  60-62% |
 |        |         |        |         |        |         |   F    |   0-59% |
 
-<!-- <div class="page-break"></div> -->
+<div class="page-break"></div>
 
-|                        | INFO 5900 | INFO 5901 |         Total |
-|:---------------------- | ---------:| ---------:| -------------:|
-| Credits                |  1 credit | 2 credits | **3 credits** |
-| In-Class Participation |        0% |        8% |        **5%** |
-| Assignments            |        0% |       37% |       **25%** |
-| Project                |      100% |       55% |       **70%** |
-| **Total**              |  **100%** |  **100%** |      **100%** |
+## Weight
 
+Your grade is calculated as follows. I reserve the right to change this if necessary.
 
-### INFO 5901
-
-Your grade is computed as the following weighted average:
-
-| Assignment             | Percent |
-| ---------------------- | ------- |
-| In-class Participation | 10%     |
-| Assignments            | 10%     |
-| Project assignments    | 40%     |
-
-Attendance and Participation: guest lectures, work sessions, weekly logs, peer evaluations, team contract, practice presentation, etc.   20%
-Project Assignments: project plan, progress report I & II, final report, presentation, poster, project deliverables, etc.                70%
-Final Client Evaluation                                                                                                                  10%
-
-### INFO 5900
-
-100% of your grade is given by your client.
-
-
+|                              | INFO 5900 | INFO 5901 |         Total |
+|:---------------------------- | ---------:| ---------:| -------------:|
+| Credits                      |  1 credit | 2 credits | **3 credits** |
+| In-Class Participation       |        0% |        8% |        **5%** |
+| Assignments                  |        0% |       37% |       **25%** |
+| Project (Assigned by Client) |      100% |       55% |       **70%** |
+| **Total**                    |  **100%** |  **100%** |      **100%** |
 
 ### Grade Adjustments
 
