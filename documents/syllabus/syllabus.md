@@ -301,11 +301,12 @@ evaluation surveys. At the instructor’s discretion, individual grades for the 
 
 This class schedule is tentative and is subject to change as the semester proceeds.
 
-| Date | Agenda | Assignments Due |
-| ---- | ------ | --------------- |
+| Date     | Agenda                  | Assignments Due  |
+| -------- | ----------------------- | ---------------- |
+| Mon 1/29 | Projects Assigned       |                  |
+| Mon 2/5  | Guest Lecture: Teamwork | Teamwork Reading |
 
-
-| Mon 8/28  | Projects Assigned     |                      |
+| --------- | --------------------- | -------------------- |
 | --------- | --------------------- | -------------------- |
 | Mon 9/4   | No Class              | Reading on Teamwork  |
 | -------   | --------              | -------------------  |
