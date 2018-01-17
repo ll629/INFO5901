@@ -249,11 +249,7 @@ they occur. In these cases, you are expected to identify the required
 sources that can help you overcome the challenges. The teaching staff
 will do their best to help you identify these sources.
 
-
-
 ## Grades
-
-Your grade for INFO 5900 is assigned by your project's client (1 credit). Your grade for INFO 5901 is assigned by the instructor (2 credits).
 
 ## Scale
 
@@ -271,6 +267,8 @@ For example: 96.01, 96.5, and 96.99 are all A’s. 97.0 is an A+.
 <div class="page-break"></div>
 
 ## Weight
+
+Your grade for INFO 5900 is assigned by your project's client (1 credit). Your grade for INFO 5901 is assigned by the instructor (2 credits).
 
 Your grade is calculated as follows. I reserve the right to change this if necessary.
 
