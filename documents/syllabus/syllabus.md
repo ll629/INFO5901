@@ -10,8 +10,12 @@
 **Course web site:** [https://cmsx.cs.cornell.edu](https://cmsx.cs.cornell.edu)\
 **Contact:** <info5901-prof@cornell.edu>\
 **Office Hours:**\
-Instructor: Gates 224, Mondays 10:00-11:30, Tuesdays 10:30-12:00\
-TAs: Gates G19, Thursdays 15:00-16:00
+
+| Staff                                                            | Location | Hours |
+| ---------------------------------------------------------------- | -------- | ----- |
+| Kyle: 224 Gates Hall, Mondays 10:00-11:30, Tuesdays 10:30-12:00\ |          |       |
+Philina: G19 Gates Hall, Thursdays 15:00-16:00
+Lola:
 
 ## Overview
 
