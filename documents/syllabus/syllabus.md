@@ -11,9 +11,9 @@
 **Contact:** <info5901-prof@cornell.edu>\
 **Office Hours:**\
 
-| Staff | Location       | Hours                                      |
-| ----- | -------------- | ------------------------------------------ |
-| Kyle  | 224 Gates Hall | Mondays 10:00-11:30, Tuesdays 10:30-12:00\ |
+| Staff | Location       | Hours                                     |
+| ----- | -------------- | ----------------------------------------- |
+| Kyle  | 224 Gates Hall | Mondays 10:00-11:30, Tuesdays 10:30-12:00 |
 Philina: G19 Gates Hall, Thursdays 15:00-16:00
 Lola:
 
