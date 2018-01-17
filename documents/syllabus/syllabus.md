@@ -301,25 +301,25 @@ evaluation surveys. At the instructor’s discretion, individual grades for the 
 
 This class schedule is tentative and is subject to change as the semester proceeds.
 
-| Date     | Agenda                               | Assignments Due                          |
-| -------- | ------------------------------------ | ---------------------------------------- |
-| Mon 1/29 | Projects Assigned                    |                                          |
-| Mon 2/5  | Guest Lecture: Teamwork              | Teamwork Reading                         |
-| Mon 2/12 |                                      |                                          |
-| Mon 2/19 | *No Class*                           |                                          |
-| Mon 2/26 |                                      |                                          |
-| Mon 3/5  |                                      |                                          |
-| Mon 3/12 |                                      |                                          |
-| Mon 3/19 |                                      |                                          |
-| Mon 3/26 |                                      |                                          |
-| Mon 4/2  | *No Class*                           |                                          |
-| Mon 4/9  |                                      |                                          |
-| Mon 4/16 |                                      |                                          |
-| Mon 4/23 |                                      |                                          |
-| Mon 4/30 |                                      |                                          |
-| Mon 5/7  |                                      |                                          |
-| Fri 5/11 | Final Presentation & Poster Showcase | Final Presentation & Poster Presentation |
-| Thu 5/17 |                                      | (11:30am) Final Report & Deliverables    |
+| Date     | Agenda                                   | Assignments Due                               |
+| -------- | ---------------------------------------- | --------------------------------------------- |
+| Mon 1/29 | Projects Assigned                        |                                               |
+| Mon 2/5  | Guest Lecture: Teamwork                  | Teamwork Reading                              |
+| Mon 2/12 | Guest Lecture: Project & Risk Management |                                               |
+| Mon 2/19 | *No Class*                               |                                               |
+| Mon 2/26 |                                          |                                               |
+| Mon 3/5  |                                          |                                               |
+| Mon 3/12 |                                          |                                               |
+| Mon 3/19 |                                          |                                               |
+| Mon 3/26 |                                          |                                               |
+| Mon 4/2  | *No Class*                               |                                               |
+| Mon 4/9  |                                          |                                               |
+| Mon 4/16 |                                          |                                               |
+| Mon 4/23 |                                          |                                               |
+| Mon 4/30 |                                          |                                               |
+| Mon 5/7  |                                          |                                               |
+| Fri 5/11 | Final Presentation & Poster Showcase     | Final Presentation &<br/> Poster Presentation |
+| Thu 5/17 |                                          | (11:30am) Final Report &<br/> Deliverables    |
 
 |           |                       |                      |
 | --------- | --------------------- | -------------------- |
@@ -342,7 +342,7 @@ This class schedule is tentative and is subject to change as the semester procee
 |           | Meeting               | II (10%)             |
 | Mon 11/6  | Effective             | Log,                 |
 |           | Presentations         |                      |
-| Mon 11/13 | Team Check-in &       | []{#anchor}Log       |
+| Mon 11/13 | Team Check-in &       | Log                  |
 |           | Meeting               |                      |
 | Mon 11/20 | Team Check-in &       | Log                  |
 |           | Meeting               |                      |
