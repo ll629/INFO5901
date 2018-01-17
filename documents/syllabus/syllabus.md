@@ -16,7 +16,7 @@
 | Kyle Harms   | 224 Gates Hall | Mondays 11:00am-12:00am<br/> Thursdays 10:00am-11:00am |
 | Philina Chen | G19 Gates Hall | Tuesdays 1:30pm-2:30pm<br/> Thursdays 1:30pm-2:30pm    |
 | Lola Legrand | G19 Gates Hall | Tuesdays 3:00pm-4:00pm<br/> Thursdays 3:00pm-4:00pm    |
-web page: <https://outlook.office365.com/owa/calendar/4e0ef2ae27364a2aa525bb46bd8feaab@cornell.edu/527b32a169fa4ea1b91907a2051e529a15340970791879911631/calendar.html>\
+<https://outlook.office365.com/owa/calendar/4e0ef2ae27364a2aa525bb46bd8feaab@cornell.edu/527b32a169fa4ea1b91907a2051e529a15340970791879911631/calendar.html>\
 iCal: <https://outlook.office365.com/owa/calendar/4e0ef2ae27364a2aa525bb46bd8feaab@cornell.edu/527b32a169fa4ea1b91907a2051e529a15340970791879911631/calendar.ics>
 
 ## Overview
