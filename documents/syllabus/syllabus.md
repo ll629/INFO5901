@@ -112,8 +112,7 @@ Services and the teaching staff for a confidential discussion of their
 individual need for academic accommodations. More information about
 Student Disability Services can be found at <http://sds.cornell.edu/>.
 
-
-## Guest Lectures
+### Guest Lectures
 
 Frequently throughout the semester, we will invite a professional to
 guest lecture about topics related to project management and
@@ -121,7 +120,7 @@ professionalism in information science.
 
 Laptop and cell phone usage is prohibited during all guest lectures.
 
-## Project Milestones and Deliverables
+## MPS Project
 
 In your semester-long project, you will be working in a team for an
 industry/academic client, to define the problem, come up with a project
@@ -164,8 +163,6 @@ meeting will help you organize and prepare for the meeting. In addition,
 plan to have a weekly email update to the client to demonstrate
 consistent progress on the project.
 
-## Assignments
-
 ### Conflict
 
 Conflict is a normal part of any team project. If you have a conflict
@@ -173,21 +170,25 @@ within your group that you cannot resolve internally, **you are required
 to bring the conflict to the attention of the teaching staff
 immediately**. Prolonged team conflict will result in a grade reduction.
 
+## Assignments
+
+Every week you'll submit a weekly log of your progress on your project. Throughout the semester you'll also be assigned several assignments designed to help you manage your project.
+
 ### Weekly Logs
 
 Each student will keep a weekly log of progress in which you will note
-what you did, what you learned, and how your team is doing this week. At
+what you did, what you learned, and any issue you had with your team this week. At
 the end of each week, each student will submit a short summary of this
 log. The purpose of these weekly logs is to ensure steady progress and
 accountability of each student and the team as a whole.
 
-Your weekly log is what you personally worked on for the week. You should not include what your team worked on. Each weekly log should be no more than a page. You do not need to write blocks of text. Bullets points are 100% acceptable and encouraged.
+Your weekly log is what you personally worked on for the week. **Do not include what your team worked on**. Each weekly log should be no more than a page. You do not need to write blocks of text. Bullets points are 100% acceptable and encouraged. If you are spending more than 30 minutes on your weekly log, you are probably spending too much time on it.
 
-### Milestones and Deliverables
+### Project Milestones and Deliverables
 
 The details below outline project deliverables. Additional details about
 the requirements of each assignment will be provided in class and
-through Blackboard.
+through the course web site.
 
 -   **Team Contract:** Before you begin working on your project you will author a team contract. The team contract will set the rules and expectations that you and your team members will follow while working on your project.
 
@@ -244,10 +245,7 @@ they occur. In these cases, you are expected to identify the required
 sources that can help you overcome the challenges. The teaching staff
 will do their best to help you identify these sources.
 
-### Peer Evaluations
 
-At end the end of the semester, students will complete self and peer
-evaluation surveys. At the instructor’s discretion, individual grades for the team project may be adjusted based on group members’ evaluation of each other’s quantity and quality of contribution to the group effort. This is in the interest of fairness.
 
 ## Grading
 
@@ -257,21 +255,15 @@ For example: 96.01, 96.5, and 96.99 are all A’s. 97.0 is an A+.
 
 <div class="page-break"></div>
 
-| Letter | Percent |
-|:------:| -------:|
-|   A+   | 97-100% |
-|   A    |  93-96% |
-|   A-   |  90-92% |
-|   B+   |  87-89% |
-|   B    |  83-86% |
-|   B-   |  80-82% |
-|   C+   |  77-79% |
-|   C    |  73-76% |
-|   C-   |  70-72% |
-|   D+   |  67-69% |
-|   D    |  63-66% |
-|   D-   |  60-62% |
-|   F    |   0-59% |
+| Letter | Percent | Letter | Percent | Letter | Percent |
+|:------:| -------:|:------:| -------:|:------:| -------:|
+|   A+   | 97-100% |   B+   |  87-89% |   C+   |  77-79% |
+|   A    |  93-96% |   B    |  83-86% |   C    |  73-76% |
+|   A-   |  90-92% |   B-   |  80-82% |   C-   |  70-72% |
+|   D+   |  67-69% |        |         |        |         |
+|   D    |  63-66% |        |         |        |         |
+|   D-   |  60-62% |        |         |        |         |
+|   F    |   0-59% |        |         |        |         |
 
 When reporting the progress of your project to the teaching staff, if
 you are in anyway deceptive about the status of your project, I reserve
@@ -294,6 +286,11 @@ Final Client Evaluation                                                         
 ### INFO 5900
 
 100% of your grade is given by your client.
+
+### Peer Evaluations
+
+At end the end of the semester, students will complete self and peer
+evaluation surveys. At the instructor’s discretion, individual grades for the team project may be adjusted based on group members’ evaluation of each other’s quantity and quality of contribution to the group effort. This is in the interest of fairness.
 
 ## Schedule
 
