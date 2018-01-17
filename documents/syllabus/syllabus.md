@@ -112,6 +112,7 @@ Services and the teaching staff for a confidential discussion of their
 individual need for academic accommodations. More information about
 Student Disability Services can be found at <http://sds.cornell.edu/>.
 
+
 ## Guest Lectures
 
 Frequently throughout the semester, we will invite a professional to
@@ -162,6 +163,8 @@ semester. Having an agenda of what you will present and discuss at the
 meeting will help you organize and prepare for the meeting. In addition,
 plan to have a weekly email update to the client to demonstrate
 consistent progress on the project.
+
+## Assignments
 
 ### Conflict
 
@@ -252,21 +255,23 @@ I grade to a scale, not to a curve. Letter grades are assigned by the
 *integer-part* of your percentage; the *decimal-part* is not a factor.
 For example: 96.01, 96.5, and 96.99 are all A’s. 97.0 is an A+.
 
-| Letter | Scale   |
-| ------ | ------- |
-| A+     | 97-100% |
-| A      | 93-96%  |
-| A-     | 90-92%  |
-| B+     | 87-89%  |
-| B      | 83-86%  |
-| B-     | 80-82%  |
-| C+     | 77-79%  |
-| C      | 73-76%  |
-| C-     | 70-72%  |
-| D+     | 67-69%  |
-| D      | 63-66%  |
-| D-     | 60-62%  |
-| F      | 0-59%   |
+<div class="page-break"></div>
+
+| Letter | Percent |
+|:------:| -------:|
+|   A+   | 97-100% |
+|   A    |  93-96% |
+|   A-   |  90-92% |
+|   B+   |  87-89% |
+|   B    |  83-86% |
+|   B-   |  80-82% |
+|   C+   |  77-79% |
+|   C    |  73-76% |
+|   C-   |  70-72% |
+|   D+   |  67-69% |
+|   D    |  63-66% |
+|   D-   |  60-62% |
+|   F    |   0-59% |
 
 When reporting the progress of your project to the teaching staff, if
 you are in anyway deceptive about the status of your project, I reserve
@@ -276,9 +281,11 @@ the right to lower your grade. This includes lowering your final grade.
 
 Your grade is computed as the following weighted average:
 
-| Assignment | Percent |
-| ---------- | ------- |
-| attendance | 20%     | 
+| Assignment             | Percent |
+| ---------------------- | ------- |
+| In-class Participation | 10%     |
+| Assignments            | 10%     |
+| Project assignments    | 40%     |
 
 Attendance and Participation: guest lectures, work sessions, weekly logs, peer evaluations, team contract, practice presentation, etc.   20%
 Project Assignments: project plan, progress report I & II, final report, presentation, poster, project deliverables, etc.                70%
