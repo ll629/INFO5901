@@ -301,24 +301,24 @@ evaluation surveys. At the instructor’s discretion, individual grades for the 
 
 This class schedule is tentative and is subject to change as the semester proceeds.
 
-| Date     | Agenda                                   | Assignments Due                               |
-| -------- | ---------------------------------------- | --------------------------------------------- |
-| Mon 1/29 | Projects Assigned                        |                                               |
-| Mon 2/5  | Guest Lecture: Teamwork                  | Log, Teamwork Reading                         |
-| Mon 2/12 | Guest Lecture: Project & Risk Management | Log, Team Contract                            |
-| Mon 2/19 | *No Class*                               | Log                                           |
-| Mon 2/26 | Project Check-in                         | Log, Project Plan                             |
-| Mon 3/5  |                                          | Log                                           |
-| Mon 3/12 |                                          | Log                                           |
-| Mon 3/19 |                                          | Log, Progress Report I                        |
-| Mon 3/26 |                                          | Log                                           |
-| Mon 4/2  | *No Class*                               | Log                                           |
-| Mon 4/9  |                                          | Log                                           |
-| Mon 4/16 |                                          | Log, Progress Report II                       |
-| Mon 4/23 |                                          | Log                                           |
-| Mon 4/30 | Effective Presentations                  | Log                                           |
-| Mon 5/7  | Practice Presentations                   | Log, Practice Presentation                    |
-| Fri 5/11 | Final Presentation & Poster Showcase     | Final Presentation &<br/> Poster Presentation |
-| Thu 5/17 |                                          | (11:30am) Final Report &<br/> Deliverables    |
+| Date     | Agenda                                   | Assignments Due                                         |
+| -------- | ---------------------------------------- | ------------------------------------------------------- |
+| Mon 1/29 | Projects Assigned                        |                                                         |
+| Mon 2/5  | Guest Lecture: Teamwork                  | Log, Teamwork Reading                                   |
+| Mon 2/12 | Guest Lecture: Project & Risk Management | Log, Team Contract                                      |
+| Mon 2/19 | *No Class*                               | Log                                                     |
+| Mon 2/26 | Project Check-in                         | Log, Project Plan                                       |
+| Mon 3/5  |                                          | Log                                                     |
+| Mon 3/12 |                                          | Log                                                     |
+| Mon 3/19 |                                          | Log, Progress Report I                                  |
+| Mon 3/26 |                                          | Log                                                     |
+| Mon 4/2  | *No Class*                               | Log                                                     |
+| Mon 4/9  |                                          | Log                                                     |
+| Mon 4/16 |                                          | Log, Progress Report II                                 |
+| Mon 4/23 |                                          | Log                                                     |
+| Mon 4/30 | Effective Presentations                  | Log                                                     |
+| Mon 5/7  | Practice Presentations                   | Log, Practice Presentation                              |
+| Fri 5/11 | Final Presentation & Poster Showcase     | Final Presentation &<br/> (4pm-6pm) Poster Presentation |
+| Thu 5/17 |                                          | (11:30am) Final Report &<br/> Deliverables              |
 
 Guest Lectures: Client Communication, Software Development, Job Q & A
