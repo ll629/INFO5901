@@ -251,6 +251,8 @@ they occur. In these cases, you are expected to identify the required
 sources that can help you overcome the challenges. The teaching staff
 will do their best to help you identify these sources.
 
+<div class="page-break"></div>
+
 ## Grades
 
 ## Scale
@@ -265,8 +267,6 @@ For example: 96.01, 96.5, and 96.99 are all A’s. 97.0 is an A+.
 |   A    |  93-96% |   B    |  83-86% |   C    |  73-76% |   D    |  63-66% |
 |   A-   |  90-92% |   B-   |  80-82% |   C-   |  70-72% |   D-   |  60-62% |
 |        |         |        |         |        |         |   F    |   0-59% |
-
-<div class="page-break"></div>
 
 ## Weight
 
