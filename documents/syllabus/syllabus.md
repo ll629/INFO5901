@@ -282,20 +282,25 @@ Your grade for INFO 5900 is assigned by your project's client (1 credit). Your g
 
 Your grade is calculated as follows. I reserve the right to change this if necessary.
 
-|                              | INFO 5900 | INFO 5901 |         Total |
-|:---------------------------- | ---------:| ---------:| -------------:|
-| *Credits*                    |  1 credit | 2 credits | **3 credits** |
-| **In-Class Participation**   |        0% |        8% |        **5%** |
-| **Assignments**              |        0% |       52% |       **35%** |
-| Team Contract                |           |           |               |
-| Project Plan                 |           |           |               |
-| Progress Report I            |           |           |               |
-| Progress Report II           |           |           |               |
-| Final Presentation           |           |           |               |
-| Poster Showcase              |           |           |               |
-| Final Report                 |           |           |               |
-| Project (Assigned by Client) |      100% |       40% |       **60%** |
-| **Total**                    |  **100%** |  **100%** |      **100%** |
+|                            | Graded by  | INFO 5900 | INFO 5901 |         Total |
+|:-------------------------- | ---------- | ---------:| ---------:| -------------:|
+| *Credits*                  |            |  1 credit | 2 credits | **3 credits** |
+| **In-Class Participation** | Instructor |        0% |        8% |        **5%** |
+| *In-class activities*      |            |           |           |               |
+| *Attendance*               |            |           |           |               |
+| **Assignments**            | Instructor |        0% |       52% |       **35%** |
+| *Team Contract*            | Instructor |           |           |               |
+| *Project Plan*             | Instructor |           |           |               |
+| *Progress Report I*        | Instructor |           |           |               |
+| *Progress Report II*       | Instructor |           |           |               |
+| *Final Presentation*       | Client     |           |           |               |
+| *Poster Showcase*          | Instructor |           |           |               |
+| *Final Report*             | Instructor |           |           |               |
+| **Project**                | Client     |      100% |       40% |       **60%** |
+| *Overall Performance*      | Client     |           |           |               |
+| *Final Deliverables*       | Client     |           |           |               |
+| *Final Report*             | Client     |           |           |               |
+| **Total**                  |            |  **100%** |  **100%** |      **100%** |
 
 ### Grade Adjustments
 
