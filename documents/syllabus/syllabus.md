@@ -239,7 +239,7 @@ through the course web site.
   you should append to your report a handover package with the
   product.
 
-## Project Deliverables
+### Project Deliverables
 
 Your final grade for your project is assigned via your client. Your client will assign your grade based on your performance over the entire semester and your final deliverable to your client.
 
@@ -260,6 +260,8 @@ will do their best to help you identify these sources.
 <div class="page-break"></div>
 
 ## Grades
+
+Your grade is based on your performance on your assignments and the final project. Your grade is assigned by both your instructor and your client.
 
 ### Scale
 
@@ -282,9 +284,16 @@ Your grade is calculated as follows. I reserve the right to change this if neces
 
 |                              | INFO 5900 | INFO 5901 |         Total |
 |:---------------------------- | ---------:| ---------:| -------------:|
-| Credits                      |  1 credit | 2 credits | **3 credits** |
-| In-Class Participation       |        0% |        8% |        **5%** |
-| Assignments                  |        0% |       52% |       **35%** |
+| *Credits*                    |  1 credit | 2 credits | **3 credits** |
+| **In-Class Participation**   |        0% |        8% |        **5%** |
+| **Assignments**              |        0% |       52% |       **35%** |
+| Team Contract                |           |           |               |
+| Project Plan                 |           |           |               |
+| Progress Report I            |           |           |               |
+| Progress Report II           |           |           |               |
+| Final Presentation           |           |           |               |
+| Poster Showcase              |           |           |               |
+| Final Report                 |           |           |               |
 | Project (Assigned by Client) |      100% |       40% |       **60%** |
 | **Total**                    |  **100%** |  **100%** |      **100%** |
 
