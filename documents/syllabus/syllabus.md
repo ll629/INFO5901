@@ -326,4 +326,4 @@ This class schedule is tentative and is subject to change as the semester procee
 | Fri 5/11 | Final Presentation & Poster Showcase     | Final Presentation &<br/> (4pm-6pm) Poster Presentation |
 | Thu 5/17 |                                          | (11:30am) Final Report &<br/> Deliverables              |
 
-Guest Lectures: Client Communication, Software Development, Job Q & A
+TODO: Guest Lectures: Client Communication, Software Development, Job Q & A
