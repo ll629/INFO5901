@@ -190,54 +190,60 @@ accountability of each student and the team as a whole.
 
 Your weekly log is what you personally worked on for the week. **Do not include what your team worked on**. Each weekly log should be no more than a page. You do not need to write blocks of text. Bullets points are 100% acceptable and encouraged. If you are spending more than 30 minutes on your weekly log, you are probably spending too much time on it.
 
-### Project Milestones and Deliverables
+### Project Assignments
 
-The details below outline project deliverables. Additional details about
+The details below outline project assignment. Additional details about
 the requirements of each assignment will be provided in class and
 through the course web site.
 
--   **Team Contract:** Before you begin working on your project you will author a team contract. The team contract will set the rules and expectations that you and your team members will follow while working on your project.
+- **Team Contract:** Before you begin working on your project you will author a team contract. The team contract will set the rules and expectations that you and your team members will follow while working on your project.
 
--   **Project Plan:** The first deliverable will consist of a document
-    in which the team will identify and justify the primary ideas of
-    your project, describe the problem you plan to address and the
-    methodologies you intend to use, outline the sources, tools, and
-    techniques you will use to address the problem, and provide a
-    detailed time-line with your activities, work distribution and
-    project plan for achieving the project goals.
+- **Project Plan:** The first deliverable will consist of a document
+  in which the team will identify and justify the primary ideas of
+  your project, describe the problem you plan to address and the
+  methodologies you intend to use, outline the sources, tools, and
+  techniques you will use to address the problem, and provide a
+  detailed time-line with your activities, work distribution and
+  project plan for achieving the project goals.
 
--   **Progress Report I:** The purpose of this mid-way report is to
-    ensure that you are making systematic progress toward completing the
-    project successfully. In this report, you will describe what you
-    have achieved so far and outline any changes to the project plan
-    since you presented the initial plan.
+- **Progress Report I:** The purpose of this mid-way report is to
+  ensure that you are making systematic progress toward completing the
+  project successfully. In this report, you will describe what you
+  have achieved so far and outline any changes to the project plan
+  since you presented the initial plan.
 
--   **Progress Report II:** In this report you will demonstrate that you
-    have achieved considerable progress in the project. As in Progress
-    Report I, you will describe any changes to the project plan since
-    the last report. Here you will also provide a detailed plan toward
-    successful completion.
+- **Progress Report II:** In this report you will demonstrate that you
+  have achieved considerable progress in the project. As in Progress
+  Report I, you will describe any changes to the project plan since
+  the last report. Here you will also provide a detailed plan toward
+  successful completion.
 
--   **Final Report:** This document will summarize your team efforts
-    over the semester and will serve as an executive summary that you
-    hand over to the client. In this document, you will describe the
-    problem you worked on, the methods and tools you used, the
-    activities you carried out, and the final outcomes you are providing
-    to the client. If your project involves the creation of a product,
-    you should append to your report a handover package with the
-    product.
+- **Final Presentation:** You will prepare and present the results of
+  your project to the client. Your presentation should be polished and
+  professional. It should also accurately describe the final outcome
+  of your project.
 
--   **Final Presentation:** You will prepare and present the results of
-    your project to the client. Your presentation should be polished and
-    professional. It should also accurately describe the final outcome
-    of your project.
+- **Project Showcase:** At the end of the semester, you will present
+  with your team what you have worked on during the semester. All
+  clients, as well as the information science community: students,
+  researchers, and faculty, will be invited to the session. Your
+  presentation will be in the form of a poster, around which
+  discussions will be held.
 
--   **Project Showcase:** At the end of the semester, you will present
-    with your team what you have worked on during the semester. All
-    clients, as well as the information science community: students,
-    researchers, and faculty, will be invited to the session. Your
-    presentation will be in the form of a poster, around which
-    discussions will be held.
+- **Final Report:** This document will summarize your team efforts
+  over the semester and will serve as an executive summary that you
+  hand over to the client. In this document, you will describe the
+  problem you worked on, the methods and tools you used, the
+  activities you carried out, and the final outcomes you are providing
+  to the client. If your project involves the creation of a product,
+  you should append to your report a handover package with the
+  product.
+
+## Project Deliverables
+
+Your final grade for your project is assigned via your client. Your client will assign your grade based on your performance over the entire semester and your final deliverable to your client.
+
+Your client will also assign your presentation grade.
 
 ### Project Guidance
 
@@ -255,7 +261,7 @@ will do their best to help you identify these sources.
 
 ## Grades
 
-## Scale
+### Scale
 
 I grade to a scale, not to a curve. Like your GPA, letter grades are assigned by the
 *integer-part* of your percentage; the *decimal-part* is not a factor.
@@ -268,7 +274,7 @@ For example: 96.01, 96.5, and 96.99 are all A’s. 97.0 is an A+.
 |   A-   |  90-92% |   B-   |  80-82% |   C-   |  70-72% |   D-   |  60-62% |
 |        |         |        |         |        |         |   F    |   0-59% |
 
-## Weight
+### Weight
 
 Your grade for INFO 5900 is assigned by your project's client (1 credit). Your grade for INFO 5901 is assigned by the instructor (2 credits).
 
