@@ -309,8 +309,8 @@ This class schedule is tentative and is subject to change as the semester procee
 | Date     | Agenda                                   | Assignments Due                                         |
 | -------- | ---------------------------------------- | ------------------------------------------------------- |
 | Mon 1/29 | Projects Assigned                        |                                                         |
-| Mon 2/5  | Guest Lecture: Teamwork                  | Log, Teamwork Reading                                   |
-| Mon 2/12 | Guest Lecture: Project & Risk Management | Log, Team Contract                                      |
+| Mon 2/5  | Guest Lecture: Project & Risk Management | Log, Teamwork Reading                                   |
+| Mon 2/12 | Guest Lecture: Teamwork                  | Log, Team Contract                                      |
 | Mon 2/19 | *No Class*                               | Log                                                     |
 | Mon 2/26 | Project Check-in                         | Log, Project Plan                                       |
 | Mon 3/5  |                                          | Log                                                     |
