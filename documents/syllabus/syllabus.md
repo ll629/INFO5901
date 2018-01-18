@@ -118,14 +118,6 @@ Services and the teaching staff for a confidential discussion of their
 individual need for academic accommodations. More information about
 Student Disability Services can be found at <http://sds.cornell.edu/>.
 
-### Guest Lectures
-
-Frequently throughout the semester, we will invite a professional to
-guest lecture about topics related to project management and
-professionalism in information science.
-
-Laptop and cell phone usage is prohibited during all guest lectures.
-
 ## MPS Project
 
 In your semester-long project, you will be working in a team for an
