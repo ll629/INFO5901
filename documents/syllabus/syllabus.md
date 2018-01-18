@@ -243,8 +243,6 @@ through the course web site.
   you should append to your report a handover package with the
   product.
 
-<!-- <div class="page-break"></div> -->
-
 ## Grades
 
 Your grade is based on your performance on your assignments and the final project. Your grade is assigned by both your instructor and your client.
@@ -254,6 +252,8 @@ Your grade is based on your performance on your assignments and the final projec
 I grade to a scale, not to a curve. Like your GPA, letter grades are assigned by the
 *integer-part* of your percentage; the *decimal-part* is not a factor.
 For example: 96.01, 96.5, and 96.99 are all A’s. 97.0 is an A+.
+
+<div class="page-break"></div>
 
 | Letter | Percent | Letter | Percent | Letter | Percent | Letter | Percent |
 |:------:| -------:|:------:| -------:|:------:| -------:|:------:| -------:|
