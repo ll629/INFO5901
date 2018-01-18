@@ -257,7 +257,7 @@ they occur. In these cases, you are expected to identify the required
 sources that can help you overcome the challenges. The teaching staff
 will do their best to help you identify these sources.
 
-<div class="page-break"></div>
+<!-- <div class="page-break"></div> -->
 
 ## Grades
 
