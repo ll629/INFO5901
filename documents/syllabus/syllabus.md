@@ -176,6 +176,18 @@ within your group that you cannot resolve internally, **you are required
 to bring the conflict to the attention of the teaching staff
 immediately**. Prolonged team conflict will result in a grade reduction.
 
+### Project Guidance
+
+A member of the teaching staff will check-in with each team frequently and provide the
+team with ongoing guidance and feedback. If you need any guidance on your project, please reach out to the teaching staff. We are more than happy to help.
+
+Please note that because the MPS projects cover a wide range of topics,
+the teaching staff do not necessary have the specific knowledge required
+to help you overcome technical or knowledge-based challenges, should
+they occur. In these cases, you are expected to identify the required
+sources that can help you overcome the challenges. The teaching staff
+will do their best to help you identify these sources.
+
 ## Assignments
 
 Every week you'll submit a weekly log of your progress on your project. Throughout the semester you'll also be assigned several assignments designed to help you manage your project.
@@ -238,24 +250,6 @@ through the course web site.
   to the client. If your project involves the creation of a product,
   you should append to your report a handover package with the
   product.
-
-### Project Deliverables
-
-Your final grade for your project is assigned via your client. Your client will assign your grade based on your performance over the entire semester and your final deliverable to your client.
-
-Your client will also assign your presentation grade.
-
-### Project Guidance
-
-A member of the teaching staff will check-in with each team frequently and provide the
-team with ongoing guidance and feedback. If you need any guidance on your project, please reach out to the teaching staff. We are more than happy to help.
-
-Please note that because the MPS projects cover a wide range of topics,
-the teaching staff do not necessary have the specific knowledge required
-to help you overcome technical or knowledge-based challenges, should
-they occur. In these cases, you are expected to identify the required
-sources that can help you overcome the challenges. The teaching staff
-will do their best to help you identify these sources.
 
 <!-- <div class="page-break"></div> -->
 
