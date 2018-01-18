@@ -253,14 +253,14 @@ I grade to a scale, not to a curve. Like your GPA, letter grades are assigned by
 *integer-part* of your percentage; the *decimal-part* is not a factor.
 For example: 96.01, 96.5, and 96.99 are all A’s. 97.0 is an A+.
 
-<div class="page-break"></div>
-
 | Letter | Percent | Letter | Percent | Letter | Percent | Letter | Percent |
 |:------:| -------:|:------:| -------:|:------:| -------:|:------:| -------:|
 |   A+   | 97-100% |   B+   |  87-89% |   C+   |  77-79% |   D+   |  67-69% |
 |   A    |  93-96% |   B    |  83-86% |   C    |  73-76% |   D    |  63-66% |
 |   A-   |  90-92% |   B-   |  80-82% |   C-   |  70-72% |   D-   |  60-62% |
 |        |         |        |         |        |         |   F    |   0-59% |
+
+<div class="page-break"></div>
 
 ### Weight
 
