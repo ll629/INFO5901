@@ -7,7 +7,7 @@
 **Instructor:** Kyle Harms\
 **Teaching Assistants:** Lola Legrand, Philina Chen
 
-**Course web site:** <https://cmsx.cs.cornell.edu>
+**Course web site:** <https://cmsx.cs.cornell.edu>\
 **Contact:** <info5901-prof@cornell.edu>\
 **Office Hours:**
 
@@ -278,8 +278,8 @@ Your grade is calculated as follows. I reserve the right to change this if neces
 |:---------------------------- | ---------:| ---------:| -------------:|
 | Credits                      |  1 credit | 2 credits | **3 credits** |
 | In-Class Participation       |        0% |        8% |        **5%** |
-| Assignments                  |        0% |       37% |       **25%** |
-| Project (Assigned by Client) |      100% |       55% |       **70%** |
+| Assignments                  |        0% |       52% |       **35%** |
+| Project (Assigned by Client) |      100% |       40% |       **60%** |
 | **Total**                    |  **100%** |  **100%** |      **100%** |
 
 ### Grade Adjustments
