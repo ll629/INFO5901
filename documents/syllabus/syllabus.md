@@ -7,7 +7,7 @@
 **Instructor:** Kyle Harms\
 **Teaching Assistants:** Lola Legrand, Philina Chen
 
-**Course web site:** [https://cmsx.cs.cornell.edu](https://cmsx.cs.cornell.edu)\
+**Course web site:** <https://cmsx.cs.cornell.edu>
 **Contact:** <info5901-prof@cornell.edu>\
 **Office Hours:**
 
